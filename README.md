@@ -1,4 +1,4 @@
-# Vinayaga
+# Muladhara
 Creating and deploying a contract in rinkeby.
 
 ## Instructions
